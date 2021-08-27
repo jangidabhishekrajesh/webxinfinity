@@ -1,0 +1,39 @@
+
+*{
+    font-family: "Trirong", serif;
+}.navbar{
+    background: pink;
+}
+.form-control{
+    border-color: transparent transparent lightgrey transparent;
+    background: transparent;
+    outline: 0 !important;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.section{
+    text-align: center;
+    border-color: transparent transparent pink transparent;
+    background: transparent;
+    outline: 0 !important;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.img-1{
+    border-radius: 8px;
+}
+.look{
+    color: pink;
+}
+
+.line{display:block; margin:25px}
+    .line h5{font-size:15px; text-align:center; border:1px solid pink; position:relative;
+}
+    .line h5 span { background-color: white; color: pink; position: relative; top: 10px; padding: 0 10px;
+}
+.btn{
+    background: pink;
+    color: white;
+}
